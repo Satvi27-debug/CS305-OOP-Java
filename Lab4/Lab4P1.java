@@ -24,4 +24,5 @@ public class Lab4P1 {
             System.out.println(ae.getClass().getName() + ": / by zero");
         }
     }
+
 }
